@@ -14,12 +14,14 @@ body {
 }
 
 .wrapper {
+  color: white;
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
 }
 
 #content {
+  color: black;
   padding: 20px;
   background: rgba(255,255,255,.85);
 }
@@ -52,7 +54,8 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.05em;
 }
 
 a {
